@@ -41,8 +41,8 @@ section p {
 }
 
 .max-width-wrapper {
-  max-width: 24%;
-  margin: 0 auto;
+  max-width: 60%;
+  margin: 64px auto;
 }
 
 .card {
@@ -55,7 +55,7 @@ section p {
 }
 
 .indented-heading {
-  width: max-content;
+  width: fit-content;
   padding: 16px 32px;
   margin-left: -48px;
   margin-top: 0;
